@@ -130,6 +130,9 @@ body {
     border: 3px solid;
     border-color: var(--text-decoration-color);
 }
+.contact-info__avatar:hover {
+  transform: scale(1.2);
+}
 
 .intro {
   display: flex;
@@ -155,6 +158,10 @@ body {
 .intro_text {
   color: var(--secondary-text-color);
   text-align: justify;
+}
+
+.skills__blocks.fh {
+  justify-content: space-around;
 }
 
 .skills__header {
@@ -241,11 +248,11 @@ body {
 .additional-info__education-university-speciality {
   color: var(--primary-text-color);
   text-align: left;
-  margin-bottom: 10px;
 }
 
 .additional-info__education-university-name {
   color: var(--secondary-text-color);
+  margin-bottom: 10px;
 }
 
 .additional-info__languages {
