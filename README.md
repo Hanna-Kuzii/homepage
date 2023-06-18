@@ -1,2 +1,2 @@
 # homepage
-https://hanna-kuzii.github.io/homepage
+https://hanna-kuzii.github.io/homepage/
